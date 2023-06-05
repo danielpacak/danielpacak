@@ -1,4 +1,14 @@
-### Hi there 👋
+I'm currently with Cycode working on cybersecurity products. In particular, I'm focused on agent-based software supply chain security.
+This involves kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript programming in user space.
+I do also lots of integrations with CI/CD platforms such as GitHub Actions and Azure DevOps Pipelines.
+This technology stack is something that I'm building my strength in.
+
+I'm learning Rust, Linux programming interfaces, as well as Linux network and file system internals.
+
+I'm an emeritus maintainer of CNCF project Harbor where I fouced on vulnerability scanning, designing pluggable scanners API, and onboarding
+Trivy as the default vulnerability scanner.
+
+During my time at Aqua Security, I designed and implemented Starboard as a Kubernetes native security manager. Starboard has pivoted and was renamed to Trivy Operator without preserving commits history. I also used to maintain the who-can plugin for kubectl that facilitates RBAC permissions management in Kubernetes.
 
 <!--
 **danielpacak/danielpacak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
