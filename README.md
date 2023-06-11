@@ -7,7 +7,7 @@ I'm learning Rust, Linux programming interfaces, as well as Linux network and fi
 
 During my time at Aqua Security, I designed and implemented Starboard as a Kubernetes native security manager. Starboard has pivoted and was renamed to Trivy Operator without preserving commits history. I also used to maintain the who-can plugin for kubectl that facilitates RBAC permissions management in Kubernetes. I'm Certified Kubernetes Applications Developer (CKAD) and Certified Kubernetes Administrator (CKA).
 
-I'm an emeritus maintainer of CNCF project Harbor where I fouced on vulnerability scanning, designing pluggable scanners API, and onboarding
+I'm an emeritus maintainer of CNCF project Harbor where I focused on vulnerability scanning, designing pluggable scanners API, and onboarding
 Trivy as the default vulnerability scanner.
 
 <!--
