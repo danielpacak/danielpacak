@@ -1,7 +1,6 @@
 Currently, I'm with [Cycode] working on cybersecurity products. In particular, I'm focused on [agent-based software supply chain security].
 This involves kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript programming in user space.
 I do lots of integrations with CI/CD platforms such as GitHub Actions and Azure DevOps Pipelines.
-This technology stack is something that I'm building my strength in.
 
 I'm learning eBPF, Linux programming interfaces, the LKM framework, as well as Linux network and file system internals.
 
