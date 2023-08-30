@@ -1,6 +1,8 @@
-Currently, I'm with [Cycode] working on cybersecurity products. In particular, I'm focused on [agent-based software supply chain security].
+Currently, I'm looking for a new gig. In the meantime, I'm studying eBPF, Linux programming interfaces, the LKM framework, containers, and Linux networking internals.
+
+Recently, I've been with [Cycode] working on cybersecurity products. In particular, I was focused on [agent-based software supply chain security].
 This involves kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript programming in user space.
-I do lots of integrations with CI/CD platforms such as GitHub Actions and Azure DevOps Pipelines.
+I did lots of integrations with CI/CD platforms such as GitHub Actions and Azure DevOps Pipelines.
 
 I'm learning eBPF, Linux programming interfaces, the LKM framework, as well as Linux network and file system internals.
 
