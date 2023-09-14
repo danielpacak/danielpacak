@@ -4,8 +4,6 @@ Recently, I've been with [Cycode] working on cybersecurity products. In particul
 This involves kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript programming in user space.
 I did lots of integrations with CI/CD platforms such as GitHub Actions and Azure DevOps Pipelines.
 
-I'm learning eBPF, Linux programming interfaces, the LKM framework, as well as Linux network and file system internals.
-
 Previously, during my time at [Aqua Security], I designed and implemented [Starboard], which is a Kubernetes native security manager. Starboard has pivoted and was renamed to [Trivy Operator], unfortunately without preserving commits history. I also used to maintain the [who-can] plugin for kubectl that facilitates RBAC permissions audit in Kubernetes. I'm Certified Kubernetes Applications Developer (CKAD) and Certified Kubernetes Administrator (CKA).
 
 Last but not least, I'm an emeritus maintainer of CNCF project Harbor where I focused on vulnerability scanning, designing [pluggable scanners API], and onboarding [Trivy] as the default vulnerability scanner.
