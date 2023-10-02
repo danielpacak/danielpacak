@@ -1,4 +1,4 @@
-Currently, I'm looking for a new gig. In the meantime, I'm studying eBPF, Linux programming interfaces, the LKM framework, containers, and Linux networking internals.
+Currently, I'm with [KSOC](https://github.com/ksoclabs) focused on defence in depth and eBPF-based runtime protection capabilities.
 
 Recently, I've been with [Cycode] working on cybersecurity products. In particular, I was focused on [agent-based software supply chain security].
 This involved kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript programming in user space.
