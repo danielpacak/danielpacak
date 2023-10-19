@@ -1,7 +1,7 @@
 Currently, I'm with [KSOC](https://github.com/ksoclabs), where I'm focused on threat detection and runtime security for cloud native applications.
 
 Recently, I've been with [Cycode] working on cybersecurity products. In particular, I was focused on [agent-based software supply chain security] (project called Cimon).
-This involved kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript programming in user space.
+This involved kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript in user space.
 I did lots of integrations with CI/CD platforms such as GitHub Actions and Azure DevOps Pipelines.
 
 Previously, during my time at [Aqua Security], I designed and implemented [Starboard], which is a Kubernetes native security manager. Starboard has pivoted and was renamed to [Trivy Operator], unfortunately without preserving commits history. I also used to maintain the [who-can] plugin for kubectl that facilitates RBAC permissions audit in Kubernetes. I'm Certified Kubernetes Applications Developer (CKAD) and Certified Kubernetes Administrator (CKA).
