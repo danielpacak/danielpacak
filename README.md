@@ -1,4 +1,4 @@
-Currently, I'm focused on threat detection and runtime security for cloud native applications.
+Currently, I'm working on the next generation threat detection and runtime security for cloud native applications.
 
 Recently, I've been with [Cycode] working on cybersecurity products. In particular, I was focused on [agent-based software supply chain security] (project called Cimon).
 This involved kernel programming in C and eBPF, as well as Go and JavaScript/TypeScript in user space.
